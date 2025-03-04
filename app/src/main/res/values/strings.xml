@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeatandHumidity</string>
+    <string name="navigation_drawer_open">Navigasyon menüsünü aç</string>
+    <string name="navigation_drawer_close">Navigasyon menüsünü kapat</string>
+</resources>
